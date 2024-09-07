@@ -9,8 +9,8 @@
 ## Projects & Competitions
 
 I am continuously building my portfolio with personal projects and participating in machine learning competitions. Here's a glimpse of my work:
-- 📊 **[Stock Market Crash of 2008]** - Analyzed the trend in stock prices for 3 investment banks during the crash of 2008. Created visualizations between **standard deviation** and **risk**. Also, created a plot showing the **decline in stock prices**.
-- 🤖 **[Predicting stock prices of TESLA]** - Used Stooq index data to extract stock prices data. Performed a train-test-split and used a **Linear Regression** algorithm to predict the corresponding prices for test data.
+- 📊 **[Stock Market Crash of 2008]** - Analyzed the trend in stock prices for 3 investment banks during the crash of 2008. Used Stooq index data for extracting stock prices between 2008 and 2015. Created visualizations between **standard deviation** and **risk**. Also, created a plot showing the **decline in stock prices**.
+- 🤖 **[Predicting stock prices of TESLA]** - Used TSLA.csv dataset. Performed a train-test-split and used a **Linear Regression** algorithm to predict the corresponding prices for test data.
 - 🚀 Competitions: [GDSC NSUT Kaggle Competiton] - Finished 12th position overall, out of 42 participants and 3rd position among the freshman year participants.
 
 ## Get In Touch
