@@ -59,9 +59,9 @@ A novel parallelisation strategy for Gradient Boosted Machines that exploits **a
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaibhavKundu2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Baibhav's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BaibhavKundu2005&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Baibhav's GitHub Stats" height="165"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaibhavKundu2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaibhavKundu2005&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 ---
