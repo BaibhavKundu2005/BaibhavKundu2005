@@ -75,7 +75,7 @@ A novel parallelisation strategy for Gradient Boosted Machines that exploits **a
 
 Turns a plain intent ("biryani for 4") into a cart: a bi-encoder + cross-encoder retrieval stack over a 9,534-SKU catalog, a cross-language alias table, and RapidFuzz typo fallback. Orchestrated as a 6-node LangGraph graph (intent → decompose → match → confidence → counterfactual) with a bounded replan loop so failures degrade gracefully instead of breaking the cart.
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BaibhavKundu2005)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Strizzyy/NowCart)
 
 ---
 
